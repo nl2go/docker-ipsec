@@ -1,0 +1,8 @@
+*.log
+*.retry
+/.project
+/.idea
+/.ansible.log.swp
+/.vscode
+/venv
+.env

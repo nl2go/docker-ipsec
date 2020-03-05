@@ -1,0 +1,6 @@
+version: '2.3'
+services:
+  ipsec:
+    build:
+      context: .
+    image: nl2go/ipsec:dev
