@@ -1,6 +1,6 @@
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nl2go/ipsec)](https://hub.docker.com/repository/docker/nl2go/ipsec/general)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nl2go/ipsec)](https://hub.docker.com/r/nl2go/ipsec)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nl2go/docker-ipsec)](https://hub.docker.com/repository/docker/nl2go/docker-ipsec/tags?page=1)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nl2go/docker-ipsec)](https://hub.docker.com/repository/docker/nl2go/ipsec/tags?page=1)
 
 # Docker IPsec
 Containerized IPsec client based on [strongSwan](https://www.strongswan.org/).
